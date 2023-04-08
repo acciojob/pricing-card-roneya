@@ -6,8 +6,16 @@
     text-align: center;
 
   }
-  
-  .bt{
+  .bd h1{
+    font-size: 20px;
+  }
+  .bd p{
+    font-size: 20px;
+  }
+  .bd img{
+    width: 100%;
+  }
+  .btn{
     padding: 10px;
     background-color: #f1f1f1;
     text-align: center;
@@ -21,14 +29,5 @@
     background-color:red;
     margin-top:10px;
 	cursor:pointer;
-  }
-.card h1{
-    font-size: 20px;
-  }
-  .card p{
-    font-size: 20px;
-  }
-  .card img{
-    width: 100%;
   }
   
