@@ -6,15 +6,7 @@
     text-align: center;
 
   }
-  .bd h1{
-    font-size: 20px;
-  }
-  .bd p{
-    font-size: 20px;
-  }
-  .bd img{
-    width: 100%;
-  }
+  
   .bt{
     padding: 10px;
     background-color: #f1f1f1;
@@ -29,5 +21,14 @@
     background-color:red;
     margin-top:10px;
 	cursor:pointer;
+  }
+.bd h1{
+    font-size: 20px;
+  }
+  .bd p{
+    font-size: 20px;
+  }
+  .bd img{
+    width: 100%;
   }
   
